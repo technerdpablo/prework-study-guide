@@ -21,14 +21,14 @@ h2 {
 
 img {
     display: block;
-    height: 70px;
-    width: 75px;
+    height: 40px;
+    width: 45px;
     margin-left: auto;
     margin-right: auto;
     border: solid 5px;
     border-color: #3322a4;
-    border-radius: 10px;
-    b
+    border-radius: 10px 5px
+    
 }
 
 ul {
