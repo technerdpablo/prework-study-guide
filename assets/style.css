@@ -7,7 +7,7 @@ header,
 footer {
     width: 100%;
     height: 120px;
-    background-color:#5499C7;
+    background-color:#8FCAB8    ;
     color: white;
     border: 5px solid  #2E4053; 
       
@@ -20,13 +20,13 @@ h2 {
 }
 
 img {
-    display: block;
+    display:block;
     height: 40px;
-    width: 45px;
+    width: 50px;
     margin-left: auto;
     margin-right: auto;
     border: solid 5px;
-    border-color: #3322a4;
+    border-color: #2E4053;
     border-radius: 10px 5px
     
 }
@@ -46,4 +46,5 @@ p {
     margin: 40px auto;
     border: 5px solid #2E4053;
     box-shadow: 5px 10px #888888;
+    background-color:#E5E8E8;
   }
